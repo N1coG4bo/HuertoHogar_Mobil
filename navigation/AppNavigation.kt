@@ -4,8 +4,8 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.huertohogar.ui.screen.CatalogoScreen
-import com.example.huertohogar.ui.screen.LoginScreen
+import com.example.huertohogar_mobil.ui.screen.CatalogoScreen
+import com.example.huertohogar_mobil.ui.screen.LoginScreen
 // import com.example.huertohogar_mobil.ui.screen.SplashScreen (Opcional si luego la creamos)
 
 @Composable

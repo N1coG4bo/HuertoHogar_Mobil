@@ -1,4 +1,4 @@
-package com.example.huertohogar.ui.screen
+package com.example.huertohogar_mobil.ui.screen
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
